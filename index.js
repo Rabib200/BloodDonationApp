@@ -8,15 +8,10 @@ const app = express();
 app.get('/', (request, response) => {
     return response.status(200).send(
         {
-            name: "First Server"
+            name: "Rabib Haque"
         }
     );
 }
-
-
-
-
-
 );
 
 app.get("/donors", (req, res) => {
