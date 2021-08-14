@@ -1,0 +1,15 @@
+{
+  "name": "blooddonationapp",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "\"Blood donator app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"rabib\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
